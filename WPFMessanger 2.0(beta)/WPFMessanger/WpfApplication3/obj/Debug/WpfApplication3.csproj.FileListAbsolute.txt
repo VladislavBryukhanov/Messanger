@@ -1,0 +1,76 @@
+c:\users\vlad\Documents\Visual Studio 2012\Projects\WpfApplication3\WpfApplication3\bin\Debug\WpfApplication3.exe.config
+D:\doc\Visual Studio 2012\Projects\WpfApplication3\WpfApplication3\bin\Debug\WpfApplication3.exe.config
+D:\doc\Visual Studio 2012\Projects\WpfApplication3\WpfApplication3\bin\Debug\WpfApplication3.exe
+D:\doc\Visual Studio 2012\Projects\WpfApplication3\WpfApplication3\bin\Debug\WpfApplication3.pdb
+D:\doc\Visual Studio 2012\Projects\WpfApplication3\WpfApplication3\obj\Debug\App.g.cs
+D:\doc\Visual Studio 2012\Projects\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3_MarkupCompile.cache
+D:\doc\Visual Studio 2012\Projects\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3.g.resources
+D:\doc\Visual Studio 2012\Projects\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3.Properties.Resources.resources
+D:\doc\Visual Studio 2012\Projects\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3.csproj.GenerateResource.Cache
+D:\doc\Visual Studio 2012\Projects\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3.exe
+D:\doc\Visual Studio 2012\Projects\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3.pdb
+D:\doc\Visual Studio 2012\Projects\WpfApplication3\WpfApplication3\obj\Debug\Profile.baml
+D:\doc\Visual Studio 2012\Projects\WpfApplication3\WpfApplication3\obj\Debug\Profile.g.cs
+D:\doc\Visual Studio 2012\Projects\WpfApplication3\WpfApplication3\obj\Debug\mainwindow.baml
+D:\doc\Visual Studio 2012\Projects\WpfApplication3\WpfApplication3\obj\Debug\mainwindow.g.cs
+D:\doc\Visual Studio 2012\Projects\WpfApplication3\WpfApplication3\obj\Debug\Registration.baml
+D:\doc\Visual Studio 2012\Projects\WpfApplication3\WpfApplication3\obj\Debug\Registration.g.cs
+D:\doc\Visual Studio 2012\Projects\WpfApplication3\WpfApplication3\bin\Debug\Resources\Empty.png
+D:\doc\Visual Studio 2012\Projects\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3.csprojResolveAssemblyReference.cache
+D:\doc\Visual Studio 2012\Projects\WpfApplication3\WpfApplication3\obj\Debug\Messages.baml
+D:\doc\Visual Studio 2012\Projects\WpfApplication3\WpfApplication3\obj\Debug\Peoples.baml
+D:\doc\Visual Studio 2012\Projects\WpfApplication3\WpfApplication3\obj\Debug\Messages.g.cs
+D:\doc\Visual Studio 2012\Projects\WpfApplication3\WpfApplication3\obj\Debug\Peoples.g.cs
+F:\WPFMessanger\WpfApplication3\bin\Debug\WpfApplication3.exe.config
+F:\WPFMessanger\WpfApplication3\obj\Debug\WpfApplication3.exe
+F:\WPFMessanger\WpfApplication3\obj\Debug\WpfApplication3.pdb
+F:\WPFMessanger\WpfApplication3\bin\Debug\Resources\Empty.png
+F:\WPFMessanger\WpfApplication3\bin\Debug\WpfApplication3.exe
+F:\WPFMessanger\WpfApplication3\bin\Debug\WpfApplication3.pdb
+F:\WPFMessanger\WpfApplication3\obj\Debug\WpfApplication3.csprojResolveAssemblyReference.cache
+F:\WPFMessanger\WpfApplication3\obj\Debug\mainwindow.baml
+F:\WPFMessanger\WpfApplication3\obj\Debug\Messages.baml
+F:\WPFMessanger\WpfApplication3\obj\Debug\Peoples.baml
+F:\WPFMessanger\WpfApplication3\obj\Debug\Profile.baml
+F:\WPFMessanger\WpfApplication3\obj\Debug\Registration.baml
+F:\WPFMessanger\WpfApplication3\obj\Debug\mainwindow.g.cs
+F:\WPFMessanger\WpfApplication3\obj\Debug\Messages.g.cs
+F:\WPFMessanger\WpfApplication3\obj\Debug\Peoples.g.cs
+F:\WPFMessanger\WpfApplication3\obj\Debug\Profile.g.cs
+F:\WPFMessanger\WpfApplication3\obj\Debug\Registration.g.cs
+F:\WPFMessanger\WpfApplication3\obj\Debug\App.g.cs
+F:\WPFMessanger\WpfApplication3\obj\Debug\WpfApplication3_MarkupCompile.cache
+F:\WPFMessanger\WpfApplication3\obj\Debug\WpfApplication3.g.resources
+F:\WPFMessanger\WpfApplication3\obj\Debug\WpfApplication3.Properties.Resources.resources
+F:\WPFMessanger\WpfApplication3\obj\Debug\WpfApplication3.csproj.GenerateResource.Cache
+D:\Desktop\WPFMessanger\WpfApplication3\bin\Debug\WpfApplication3.exe.config
+D:\Desktop\WPFMessanger\WpfApplication3\obj\Debug\WpfApplication3.exe
+D:\Desktop\WPFMessanger\WpfApplication3\obj\Debug\WpfApplication3.pdb
+D:\Desktop\WPFMessanger\WpfApplication3\bin\Debug\Resources\Empty.png
+D:\Desktop\WPFMessanger\WpfApplication3\bin\Debug\WpfApplication3.exe
+D:\Desktop\WPFMessanger\WpfApplication3\bin\Debug\WpfApplication3.pdb
+D:\Desktop\WPFMessanger\WpfApplication3\obj\Debug\mainwindow.baml
+D:\Desktop\WPFMessanger\WpfApplication3\obj\Debug\Messages.baml
+D:\Desktop\WPFMessanger\WpfApplication3\obj\Debug\Peoples.baml
+D:\Desktop\WPFMessanger\WpfApplication3\obj\Debug\Profile.baml
+D:\Desktop\WPFMessanger\WpfApplication3\obj\Debug\Registration.baml
+D:\Desktop\WPFMessanger\WpfApplication3\obj\Debug\mainwindow.g.cs
+D:\Desktop\WPFMessanger\WpfApplication3\obj\Debug\Messages.g.cs
+D:\Desktop\WPFMessanger\WpfApplication3\obj\Debug\Peoples.g.cs
+D:\Desktop\WPFMessanger\WpfApplication3\obj\Debug\Profile.g.cs
+D:\Desktop\WPFMessanger\WpfApplication3\obj\Debug\Registration.g.cs
+D:\Desktop\WPFMessanger\WpfApplication3\obj\Debug\App.g.cs
+D:\Desktop\WPFMessanger\WpfApplication3\obj\Debug\WpfApplication3_MarkupCompile.cache
+D:\Desktop\WPFMessanger\WpfApplication3\obj\Debug\WpfApplication3.g.resources
+D:\Desktop\WPFMessanger\WpfApplication3\obj\Debug\WpfApplication3.Properties.Resources.resources
+D:\Desktop\WPFMessanger\WpfApplication3\obj\Debug\WpfApplication3.csproj.GenerateResource.Cache
+D:\Desktop\WPFMessanger\WpfApplication3\obj\Debug\Search.g.cs
+D:\Desktop\WPFMessanger\WpfApplication3\obj\Debug\StrangerPage.g.cs
+D:\Desktop\WPFMessanger\WpfApplication3\obj\Debug\WpfApplication3_MarkupCompile.lref
+D:\Desktop\WPFMessanger\WpfApplication3\obj\Debug\Search.baml
+D:\Desktop\WPFMessanger\WpfApplication3\obj\Debug\StrangerPage.baml
+D:\Desktop\WPFMessanger\WpfApplication3\obj\Debug\Friends.g.cs
+D:\Desktop\WPFMessanger\WpfApplication3\obj\Debug\Friends.baml
+D:\Desktop\WPFMessanger\WpfApplication3\obj\Debug\EditProfile.g.cs
+D:\Desktop\WPFMessanger\WpfApplication3\obj\Debug\EditProfile.baml
+D:\Desktop\WPFMessanger\WpfApplication3\obj\Debug\WpfApplication3.csprojResolveAssemblyReference.cache
